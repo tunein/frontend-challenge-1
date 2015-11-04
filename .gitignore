@@ -1,0 +1,5 @@
+npm-debug.
+node_modules
+public/bower/
+.idea/*
+.DS_Store
