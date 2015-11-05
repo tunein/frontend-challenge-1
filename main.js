@@ -103,7 +103,7 @@ api.numberOfChars = function(input){
 
 
 /*
- PART 4: Implement numberOfCertainChars.
+ PART 5: Implement numberOfCertainChars.
 
  numberOfCertainChars - return the number of c characters in the input array of strings
 
@@ -111,7 +111,7 @@ api.numberOfChars = function(input){
        c - the certain character to count
 
  EX:  - numberOfCertainChars(['the'], 'e') -->  1;
- - numberOfChars(['the', 'end'], 'e') -->  2;
+      - numberOfCertainChars(['the', 'end'], 'e') -->  2;
 
  Restrictions:
  - You MAY use fanOut, funnel, and distill, and the length property
