@@ -14,7 +14,7 @@ describe('The numberOfChars function ', function () {
 describe('The numberOfCertainChars function ', function () {
   describe('counts the number of As ', function () {
     it('in poem', function () {
-      vaO result = api.numberOfCertainChars(testData.poem, 'a');
+      var result = api.numberOfCertainChars(testData.poem, 'a');
 
       result.should.eql(6);
     });
