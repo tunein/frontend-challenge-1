@@ -14,7 +14,7 @@ var api = {};
  function double(n) { return n * n; }
 
   Restrictions:
-    - Do not use make any function calls (other than fn)
+    - Do not use make any function calls (other than fn and push)
     - You may not use any external libraries
 
 */
@@ -42,7 +42,7 @@ api.fanOut = function(input, fn) {
       function add(total, n) { return total + n; }
 
  Restrictions:
-   - Do not use make any function calls (other than fn)
+   - Do not use make any function calls (other than fn and push)
    - You may not use any external libraries
 
  */
@@ -68,7 +68,7 @@ api.funnel = function(input, fn, startValue){
       - distill([1, 2, 3], isNegative) -->  [];
 
  Restrictions:
- - Do not use make any function calls (other than fn)
+ - Do not use make any function calls (other than fn and push)
  - You may not use any external libraries
 
  */
