@@ -19,7 +19,7 @@ or you can install with Brew
 
 ####Clone the repo locally
 	
-	git clone https://github.com/andosw/javascript-challenge-1.git
+	git clone https://github.com/tunein/frontend-challenge-1.git
 
 #### Install dependencies with NPM
 From within the project directory 
