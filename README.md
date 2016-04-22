@@ -28,4 +28,4 @@ From within the project directory
 
 #### Start the watcher. When you save changes to your files, the tests get re-run
 
-	gulp watch
+	npm run test
